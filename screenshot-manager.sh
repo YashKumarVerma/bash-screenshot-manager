@@ -64,6 +64,6 @@ fi
 
 
 # if user has reached here, it means the desired folder is created till now, time to move the contnet
-mv *.jpg "$TARGET_PATH"
+mv *.jpg *.png "$TARGET_PATH"
 
 echo "$PREFIX Done"
