@@ -6,7 +6,7 @@ This would automatically categorize and arrange your screenshots based on time a
 
 ## Installation
 
-- Download / copy the contents `screenshot-manager.sh` to your screenshots directory.
+- Download / copy the contents `screenshot-manager.sh` to your screenshots directory from [here](https://raw.githubusercontent.com/YashKumarVerma/bash-screenshot-manager/master/screenshot-manager.sh)
 - Run `chmod +x screenshot-manager.sh` to grant execution permissions
 - Done.
 
